@@ -14,7 +14,7 @@ class TestController extends Controller
      */
     public function index()
     {
-        //
+        echo "hello laravel first app";
     }
 
     /**
